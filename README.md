@@ -1,3 +1,3 @@
 # @jafps/plugin-ci-test
 
-Template repository for Fastify Plugin.
+Template repository for Fastify Plugin. 
